@@ -13,7 +13,7 @@ export default function CommonImage({
 }: TCommonImageProps) {
   return (
     <div className={clsx([styles.commonImageWrap, className])}>
-      <Image quality={100} {...props} alt={alt} loading="lazy" />
+      <Image quality={100} {...props} alt={alt} priority />
     </div>
   );
 }

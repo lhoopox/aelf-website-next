@@ -106,33 +106,33 @@ export default function AevolvePage(props: any) {
           <ToolItem
             img={mentorShipImg}
             className={styles.toolItemLatestWrap}
-            title="Mentorship"
+            title="MENTORSHIP"
             content="Receive bespoke 1-1 mentorship to catalyse your development and guide you to success."
           />
         </div>
         <div className={styles.toolCardCol}>
           <ToolItem
             img={demoImg}
-            title="Demo Day Pitch"
+            title="DEMO DAY PITCH"
             content="Showcase your products and offerings to potential investors and partners."
           />
           <ToolItem
             img={workshopsImg}
             className={styles.toolItemLatestWrap}
-            title="Workshops"
+            title="WORKSHOPS"
             content="Exchange ideas and expertise to develop and build your products."
           />
         </div>
         <div className={styles.toolCardCol}>
           <ToolItem
             img={marketingImg}
-            title="Marketing"
+            title="MARKETING"
             content="Receive marketing support while going to market and securing your initial customers."
           />
           <ToolItem
             img={networkingImg}
             className={styles.toolItemLatestWrap}
-            title="Networking"
+            title="NETWORKING"
             content="Connect with aelf Ventures, investors. institutions, and industry leaders for funding, collaboration, and listing opportunities."
           />
         </div>

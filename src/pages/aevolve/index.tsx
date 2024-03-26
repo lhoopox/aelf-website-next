@@ -26,19 +26,19 @@ type TSupportItem = {
 const supportList: TSupportItem[] = [
   {
     img: support1Img,
-    title: "Incubate",
+    title: "INCUBATE",
     content:
       "Provide professional guidance, resources, and community support to take your vision from ideation to market success.",
   },
   {
     img: support2Img,
-    title: "Connect",
+    title: "CONNECT",
     content:
       "Tap on aelf's global connection of investors and industry professionals to propel your project to new heights.",
   },
   {
     img: support3Img,
-    title: "Invest",
+    title: "INVEST",
     content:
       "Grant access to essential funds, and provide guidance for a sustainable financial model.",
   },

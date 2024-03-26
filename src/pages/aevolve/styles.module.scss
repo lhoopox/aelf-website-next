@@ -6,7 +6,6 @@
   position: absolute;
   top: 0;
   left: 0;
-  min-width: 1200px;
   width: 100%;
   background: linear-gradient(
     180deg,
@@ -17,6 +16,7 @@
 }
 .desktop {
   .backgroundWrap {
+    min-width: 1200px;
     height: 1830px;
   }
 }
@@ -24,6 +24,7 @@
 .mobile {
   .backgroundWrap {
     height: 1263px;
+    right: 0;
   }
 }
 

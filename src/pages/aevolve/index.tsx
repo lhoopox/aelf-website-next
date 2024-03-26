@@ -57,7 +57,7 @@ export default function AevolvePage(props: any) {
         contentClassName={styles.partContent}
       >
         <div className={styles.bannerLeft}>
-          <h3 className={styles.bannerTitle}>AEVOLVE Labs</h3>
+          <div className={styles.bannerTitle}>AEVOLVE Labs</div>
           <div className={styles.bannerSubTitle}>
             {
               "Spearheading blockchain innovation with tailored support and mentorship, embracing a chain and vertical agnostic philosophy."
